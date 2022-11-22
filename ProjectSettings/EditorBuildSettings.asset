@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bounce Ball.unity
+    guid: c6ffab2f09f5b5940b7e5b4c3fa86bbd
+  - enabled: 0
+    path: Assets/Scenes/Learn.unity
+    guid: 3577fbdb71d273d47b72c4f5d51c7743
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 50ca39b06c449e140ab0ed95b257760e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 454a5d4da32d6fd4e983968a25272b1f, type: 2}
